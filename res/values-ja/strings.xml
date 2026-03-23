@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LinearLauncher</string>
+    <string name="appbar_back">戻る</string>
+    <string name="appbar_settings">設定</string>
+    <string name="settings_hidden_apps">非表示アプリ設定</string>
+    <string name="settings_recent_count">履歴の個数</string>
+    <string name="settings_sup_recent_count">最近起動した%1$d個のアプリが上に表示されます</string>
+    <string name="settings_exit_on_launch">毎回終了する</string>
+    <string name="settinng_sup_exit_on_launch">アプリを起動したとき、このランチャーを終了します</string>
+    <string name="appbar_search">検索</string>
+    <string name="appbar_close">閉じる</string>
+    <string name="search_not_found">%1$sを含むアプリはありません</string>
+    <string name="app_not_found">表示するアプリがありません</string>
+    <string name="appbar_search_placeholder">アプリを検索…</string>
+    <string name="label_add_group">グループを追加</string>
+    <string name="label_edit_group">グループを編集</string>
+    <string name="label_group_name">グループの名前</string>
+    <string name="label_delete_group">このグループを削除する</string>
+    <string name="label_tab_default">Default</string>
+    <string name="label_set_apps_in_group">このグループのアプリを選択</string>
+    <string name="title_apps_in_group">「%s」のアプリ</string>
+    <string name="label_hidden">非表示</string>
+    <string name="label_up">上へ</string>
+    <string name="label_down">下へ</string>
+    <string name="label_reorder_tabs">タブの並べかえ</string>
+</resources>
